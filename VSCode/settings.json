@@ -1,0 +1,8 @@
+{
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "workbench.colorTheme": "Material Theme High Contrast",
+    "materialTheme.fixIconsRunning": false
+}
